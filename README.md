@@ -28,8 +28,13 @@
 ```javascript
 const johadls0224 = {    
     code: ["C#", "Javascript", "yaml"],
-    askMeAbout: ["cloud", "tech stuff", "", "automation", "sports", "games"],
+    askMeAbout: ["cloud", "tech stuff", "automation", "sports", "games"],
     technologies: {
+        cloud_dev: {
+            automation: ["Ansible automation"],
+            virtualization: ["VMware"],
+            containers: ["openshift", "kubernetes", "docker-podman"]
+        }
         web: {
             frontEnd: ["HTML"],
             backEnd: ["Javascript", "ASP.Net", "c#"]            
