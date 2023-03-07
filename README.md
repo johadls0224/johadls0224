@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhoandelossantos&label=Profile%20views&color=0e75b6&style=flat" alt="jhoandelossantos" /> </p>
 
-### 💻 &nbsp;About Me
+### 💻 &nbsp;About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 - 🔭 I’m currently working *for GBM as Software Specialist* with experience in the cloud field with cool and powerful automation stuff like ansible
 
 - 🌱 I’m currently learning about *Azure and AWS to expand my knowledge in the world of cloud development, although lately node.js has called me a lot*
 
-- 👯 I’m looking to   *learn something that makes me blow my mind and excites me the same*
+- 👯 I’m looking to *learn something that makes me blow my mind and excites me the same*
 
 - 💬 Ask me about   *Anything you think I'm good (so far very familiar with ansible and c#)*
 
@@ -20,13 +20,7 @@
 
 - ⚡ Fun fact   *A combination of great enthusiasm and and coofee addicted*
 
- 
-- 👨‍👦‍👦 &nbsp;  who enjoys solving challenges as long as they work the first time :)
-
-- 
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+ - 👨‍👦‍👦 &nbsp;  who enjoys solving challenges as long as they work the first time :)
 
 
 ```javascript
