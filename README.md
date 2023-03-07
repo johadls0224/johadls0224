@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning about *Azure and AWS to expand my knowledge in the world of cloud development, although lately node.js has called me a lot*
 
-- 👯 I’m looking to *learn something that makes me blow my mind and excites me the same*
+- 👯 I’m looking to   *learn something that makes me blow my mind and excites me the same*
 
-- 💬 Ask me about *Anything you think I'm good (so far very familiar with ansible and c#)*
+- 💬 Ask me about   *Anything you think I'm good (so far very familiar with ansible and c#)*
 
-- 📫 How to reach me *jdelossantos@gmail.com*
+- 📫 How to reach me   *jdelossantos@gmail.com*
 
-- ⚡ Fun fact *A combination of great enthusiasm and and coofee addicted*
+- ⚡ Fun fact   *A combination of great enthusiasm and and coofee addicted*
 
  
 - 👨‍👦‍👦 &nbsp;  who enjoys solving challenges as long as they work the first time :)
