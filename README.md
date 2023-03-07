@@ -86,11 +86,11 @@ const johadls0224 = {
 &nbsp;
     <img src="https://cdn.svgporn.com/logos/redhat.svg" height="25">
 &nbsp;
-    <img src="https://img.shields.io/badge/azure-EEEEEE?&style=for-the-badge&logo=microsoft%20azure&logoColor=blue" height="25">
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" height="25">
 &nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="25">
 &nbsp;
-  <img src="https://icons8.com/icon/20906/git" height="25">
+  <img src="https://cdn.svgporn.com/logos/git.svg" height="25">
 
 </p>
 <br>
