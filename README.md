@@ -28,9 +28,8 @@
 ```javascript
 const johadls0224 = {    
     code: ["C#", "Javascript", "yaml"],
-    askMeAbout: ["cloud", "tech stuff", "automation", "sports", "games"],
+    askMeAbout: ["cloud", "coding", "tech stuff", "automation", "sports", "games"],
     technologies: {
-        
         cloud_dev: {
             automation: ["Ansible automation"],
             virtualization: ["VMware"],
@@ -51,7 +50,7 @@ const johadls0224 = {
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 💻 Stack I Work With
+### 💻 What I Work With
 
 <br>
 
