@@ -69,13 +69,15 @@ const johadls0224 = {
 <img src="https://img.shields.io/badge/Kubernets-0078D4.svg?&style=for-the-badge&logo=kubernetes&logoColor=white%22" height="45"/>
   &nbsp;
 <img src="https://cdn.svgporn.com/logos/docker.svg" height="45"/>  
+  &nbsp;
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="35">
+
  </p>
  
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="35">
-&nbsp;
+
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="35">
 &nbsp;
     <img src="https://cdn.svgporn.com/logos/redhat.svg" height="35">
