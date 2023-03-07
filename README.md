@@ -34,7 +34,7 @@ const johadls0224 = {
             automation: ["Ansible automation"],
             virtualization: ["VMware"],
             containers: ["openshift", "kubernetes", "docker-podman"]
-        }
+        },
         web: {
             frontEnd: ["HTML"],
             backEnd: ["Javascript", "ASP.Net", "c#"]            
