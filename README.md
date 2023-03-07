@@ -37,7 +37,7 @@ const johadls0224 = {
         },
         web: {
             frontEnd: ["HTML"],
-            backEnd: ["Javascript", "ASP.Net", "c#"]            
+            backEnd: ["Javascript", "ASP.Net", "C#"]            
         },        
         games_development: {
             engines: ["Unity"]            
