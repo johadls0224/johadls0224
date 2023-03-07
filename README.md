@@ -51,40 +51,40 @@ const johadls0224 = {
 
 <p  align="center">
 
-<img src="https://cdn.svgporn.com/logos/ansible.svg" height="35" width="25%"/>
+<img src="https://cdn.svgporn.com/logos/ansible.svg" height="45" width="25%"/>
   </p>
   
 <p  align="center">
 
-<img src="https://cdn.svgporn.com/logos/javascript.svg" height="25"/>  
+<img src="https://cdn.svgporn.com/logos/javascript.svg" height="45"/>  
   &nbsp;
-<img src="https://cdn.svgporn.com/logos/c-sharp.svg" height="25"/>
+<img src="https://cdn.svgporn.com/logos/c-sharp.svg" height="45"/>
   </p>
   
   <p  align="center">
 
   
-<img src="https://cdn.svgporn.com/logos/openshift.svg" height="25"/>
+<img src="https://cdn.svgporn.com/logos/openshift.svg" height="45"/>
   &nbsp;
-<img src="https://img.shields.io/badge/Kubernets-0078D4.svg?&style=for-the-badge&logo=kubernetes&logoColor=white%22" height="25"/>
+<img src="https://img.shields.io/badge/Kubernets-0078D4.svg?&style=for-the-badge&logo=kubernetes&logoColor=white%22" height="45"/>
   &nbsp;
-<img src="https://cdn.svgporn.com/logos/docker.svg" height="25"/>  
+<img src="https://cdn.svgporn.com/logos/docker.svg" height="45"/>  
  </p>
  
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="45">
 &nbsp;
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="45">
 &nbsp;
-    <img src="https://cdn.svgporn.com/logos/redhat.svg" height="25">
+    <img src="https://cdn.svgporn.com/logos/redhat.svg" height="45">
 &nbsp;
-    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" height="45">
 &nbsp;
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="45">
 &nbsp;
-  <img src="https://cdn.svgporn.com/logos/git.svg" height="25">
+  <img src="https://cdn.svgporn.com/logos/git.svg" height="45">
 
 </p>
 <br>
