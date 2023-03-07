@@ -30,6 +30,7 @@ const johadls0224 = {
     code: ["C#", "Javascript", "yaml"],
     askMeAbout: ["cloud", "tech stuff", "automation", "sports", "games"],
     technologies: {
+        
         cloud_dev: {
             automation: ["Ansible automation"],
             virtualization: ["VMware"],
