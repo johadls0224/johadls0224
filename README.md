@@ -51,7 +51,7 @@ const johadls0224 = {
 
 <p  align="center">
 
-<img src="https://cdn.svgporn.com/logos/ansible.svg" height="25"/>
+<img src="https://cdn.svgporn.com/logos/ansible.svg" height="35"/>
   </p>
   
 <p  align="center">
