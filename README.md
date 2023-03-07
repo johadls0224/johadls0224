@@ -57,7 +57,7 @@ const johadls0224 = {
 
 <p  align="center">
 
-<img src="https://cdn.svgporn.com/logos/ansible.svg height="25"/>
+<img src="https://cdn.svgporn.com/logos/ansible.svg" height="25"/>
   </p>
   
 <p  align="center">
@@ -70,7 +70,7 @@ const johadls0224 = {
   <p  align="center">
 
   
-<img src="https://cdn.svgporn.com/logos/openshift.svge" height="25"/>
+<img src="https://cdn.svgporn.com/logos/openshift.svg" height="25"/>
   &nbsp;
 <img src="https://img.shields.io/badge/Kubernets-0078D4.svg?&style=for-the-badge&logo=kubernetes&logoColor=white%22" height="25"/>
   &nbsp;
@@ -88,7 +88,7 @@ const johadls0224 = {
 &nbsp;
     <img src="https://img.shields.io/badge/azure-EEEEEE?&style=for-the-badge&logo=microsoft%20azure&logoColor=blue" height="25">
 &nbsp;
-  <img src="https://img.shields.io/badge/AWS-EEEEEE.svg?&style=for-the-badge&logo=amazon" height="25">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">
 &nbsp;
   <img src="https://icons8.com/icon/20906/git" height="25">
 
