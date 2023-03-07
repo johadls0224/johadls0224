@@ -1,16 +1,14 @@
-### Hi there 👋
-
-## I'm Jhoan
+### Hi there!!
 
 
-<h1 align="center">Hi 👋, I'm Jhoan, a junior dev from Dominican Republic with experience in the cloud field with cool and powerful automation stuff like ansible</h1>
+<h1 align="center">Hi 👋, I'm Jhoan, a junior dev from Dominican Republic</h1>
 <h3 align="center">A passionate developer turned devops looking for cool tech stuff to enjoy solving challenges as long as it works the first time :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhoandelossantos&label=Profile%20views&color=0e75b6&style=flat" alt="jhoandelossantos" /> </p>
 
 ### 💻 &nbsp;About Me
 
-- 🔭 I’m currently working *for GBM as Software Specialist*
+- 🔭 I’m currently working *for GBM as Software Specialist* with experience in the cloud field with cool and powerful automation stuff like ansible
 
 - 🌱 I’m currently learning about *Azure and AWS to expand my knowledge in the world of cloud development, although lately node.js has called me a lot*
 
