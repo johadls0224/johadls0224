@@ -64,7 +64,7 @@ const johadls0224 = {
   <p  align="center">
 
   
-<img src="https://cdn.svgporn.com/logos/openshift.svg" height="45"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redhat.com%2Fen%2Ftechnologies%2Fcloud-computing%2Fopenshift&psig=AOvVaw1sMhohVT68SsxF_9c1-lV3&ust=1678308928881000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjSvY7ayv0CFQAAAAAdAAAAABAE" height="45"/>
   &nbsp;
 <img src="https://img.shields.io/badge/Kubernets-0078D4.svg?&style=for-the-badge&logo=kubernetes&logoColor=white%22" height="45"/>
   &nbsp;
