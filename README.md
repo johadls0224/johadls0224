@@ -1,7 +1,7 @@
 ### Hi there!!
 
 
-<h1 align="center">Hi 👋, I'm Jhoan, a junior dev from Dominican Republic</h1> <img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
+<h1 align="center">Hi 👋, I'm Jhoan, a junior dev from Dominican Republic</h1> <img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480">
 <h3 align="center">A passionate developer turned devops looking for cool tech stuff to enjoy solving challenges as long as it works the first time :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhoandelossantos&label=Profile%20views&color=0e75b6&style=flat" alt="jhoandelossantos" /> </p>
