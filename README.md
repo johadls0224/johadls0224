@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhoandelossantos&label=Profile%20views&color=0e75b6&style=flat" alt="jhoandelossantos" /> </p>
 
-### <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="50"> &nbsp; About Me 
+### 💻 &nbsp;About Me   <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="80">
 
 - 🔭 I’m currently working *for GBM as Software Specialist* with experience in the cloud field with cool and powerful automation stuff like ansible
 
@@ -56,11 +56,13 @@ const johadls0224 = {
 
 <p  align="center">
 
-<img src="https://cdn.svgporn.com/logos/ansible.svg" height="45" width="25%"/>
+<img src="https://cdn.svgporn.com/logos/ansible.svg" height="65" width="25%"/>
   </p>
   
 <p  align="center">
 
+<img src="https://cdn.svgporn.com/logos/openshift.svg" height="45"/>
+  &nbsp;
 <img src="https://cdn.svgporn.com/logos/javascript.svg" height="45"/>  
   &nbsp;
 <img src="https://cdn.svgporn.com/logos/c-sharp.svg" height="45"/>
@@ -69,8 +71,7 @@ const johadls0224 = {
   <p  align="center">
 
   
-<img src="https://cdn.svgporn.com/logos/openshift.svg" height="45"/>
-  &nbsp;
+
 <img src="https://img.shields.io/badge/Kubernets-0078D4.svg?&style=for-the-badge&logo=kubernetes&logoColor=white%22" height="45"/>
   &nbsp;
 <img src="https://cdn.svgporn.com/logos/docker.svg" height="45"/>  
