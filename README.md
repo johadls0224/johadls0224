@@ -1,7 +1,7 @@
 ### Hi there!! 
 <p  align="center">
 
-<img align='right' src="https://giphy.com/embed/B4dt6rXq6nABilHTYM" style="width: 100%; max-width: 100%; height: auto;>
+<img align='right' src="https://giphy.com/embed/B4dt6rXq6nABilHTYM" width="230">
   </p>
 
 
