@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhoandelossantos&label=Profile%20views&color=0e75b6&style=flat" alt="jhoandelossantos" /> </p>
 
-### 💻 &nbsp;About Me <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="50">
+### 💻 &nbsp;About Me   <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="50">
 
 - 🔭 I’m currently working *for GBM as Software Specialist* with experience in the cloud field with cool and powerful automation stuff like ansible
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me   *jdelossantos@gmail.com*
 
-- ⚡ Fun fact   *A combination of great enthusiasm and and coofee addicted*
+- ⚡ Fun fact:   *A combination of great enthusiasm and and coffee addicted*
 
  - 👨‍👦‍👦 &nbsp;  who enjoys solving challenges as long as they work the first time :)
 
