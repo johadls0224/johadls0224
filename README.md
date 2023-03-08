@@ -1,8 +1,5 @@
 ### Hi there!! 
-<p  align="center">
-
-<img align='right' src="https://giphy.com/embed/B4dt6rXq6nABilHTYM" width="230">
-  </p>
+<img align='right' src="https://giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" width="230">
 
 
 <h1 align="center">Hi 👋, I'm Jhoan, a junior dev from Dominican Republic</h1> 
