@@ -1,4 +1,4 @@
-### Hi there!! <img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="100">
+### Hi there!! <img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="200" height="200">
 
 <h1 align="center">Hi 👋, I'm Jhoan, a junior dev from Dominican Republic</h1> 
 <h3 align="center">A passionate developer turned devops looking for cool tech stuff to enjoy solving challenges as long as it works the first time :)</h3>
