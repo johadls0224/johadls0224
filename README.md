@@ -18,7 +18,7 @@
 
 - 📫 How to reach me   *jdelossantos@gmail.com*
 
-- ⚡ Fun fact:   *A combination of great enthusiasm and and coffee addicted*
+- ⚡ Fun fact:   *A combination of great enthusiasm and coffee addicted*
 
  - 👨‍👦‍👦 &nbsp;  who enjoys solving challenges as long as they work the first time :)
 
