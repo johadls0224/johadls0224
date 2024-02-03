@@ -2,8 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif/giphy.gif" width="150">
 
 
-<h1 align="center">Hi 👋, I'm Jhoan, a junior dev from Dominican Republic</h1> 
-<h3 align="center">A passionate developer turned devops looking for cool tech stuff to enjoy solving challenges as long as it works the first time :)</h3>
+<h1 align="center">Hi 👋, I'm Jhoan, a cloud engineer from Dominican Republic</h1> 
+<h3 align="center">A passionate developer Immersed in cloud tech stuff looking for cool tech stuff to enjoy solving challenges as long as it works the first time :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhoandelossantos&label=Profile%20views&color=0e75b6&style=flat" alt="jhoandelossantos" /> </p>
 
@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to *learn something that makes me blow my mind and excites me the same*
 
-- 💬 Ask me about   *Anything you think I'm good (so far very familiar with ansible and c#)*
+- 💬 Ask me about   *Anything you think I'm good (so far very familiar with linux environments, redhat ansible, azure and c#)*
 
 - 📫 How to reach me   *jdelossantos@gmail.com*
 
 - ⚡ Fun fact:   *A combination of great enthusiasm and coffee addicted*
 
- - 👨‍👦‍👦 &nbsp;  who enjoys solving challenges as long as they work the first time :)
+ - 👨‍👦‍👦 &nbsp;  who enjoys solving challenges as long as they work the first time ;)
 
 
 <br>
@@ -33,12 +33,13 @@ const johadls0224 = {
     technologies: {
         cloud_dev: {
             automation: ["Ansible automation"],
-            virtualization: ["VMware"],
+            cloud: ["Azure"],
+            virtualization: ["VMware", "Azure"],
             containers: ["openshift", "kubernetes", "docker-podman"]
         },
         web: {
             frontEnd: ["HTML"],
-            backEnd: ["Javascript", "ASP.Net", "C#"]            
+            backEnd: ["Javascript", "ASP.Net", "C#", "Python"]            
         },        
         games_development: {
             engines: ["Unity"]            
